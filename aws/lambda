@@ -1,4 +1,0 @@
-#AWS Lambda
-
-> AWS Lambda are basically virtual functions, therefore no need to manage an servers.
-> They are designed for shorter executions and can be run on-demand.
